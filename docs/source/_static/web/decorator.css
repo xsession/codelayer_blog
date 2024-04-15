@@ -1,0 +1,11 @@
+.wy-nav-content {
+    padding: 1.618em 3.236em;
+    height: 100%;
+    max-width: 1400px;
+    margin: auto;
+}
+
+.logo img {
+    width: 150px; /* adjust as needed */
+    height: auto;
+}
