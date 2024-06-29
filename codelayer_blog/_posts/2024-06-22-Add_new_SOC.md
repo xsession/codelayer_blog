@@ -1,9 +1,9 @@
 ---
 layout: default
 modal-id: 1
-date: 2014-07-18
-img: cabin.png
-alt: image-alt
+date: 2024-06-29
+img: Add_new_SOC.png
+alt: "Add new SOC support"
 project-date: April 2014
 client: Start Bootstrap
 category: Embedded Development
